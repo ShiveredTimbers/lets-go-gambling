@@ -1,0 +1,14 @@
+c:\Users\samue\VSCode Projects\bin\Debug\net8.0\VSCode Projects.exe
+c:\Users\samue\VSCode Projects\bin\Debug\net8.0\VSCode Projects.deps.json
+c:\Users\samue\VSCode Projects\bin\Debug\net8.0\VSCode Projects.runtimeconfig.json
+c:\Users\samue\VSCode Projects\bin\Debug\net8.0\VSCode Projects.dll
+c:\Users\samue\VSCode Projects\bin\Debug\net8.0\VSCode Projects.pdb
+c:\Users\samue\VSCode Projects\obj\Debug\net8.0\VSCode Projects.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\samue\VSCode Projects\obj\Debug\net8.0\VSCode Projects.AssemblyInfoInputs.cache
+c:\Users\samue\VSCode Projects\obj\Debug\net8.0\VSCode Projects.AssemblyInfo.cs
+c:\Users\samue\VSCode Projects\obj\Debug\net8.0\VSCode Projects.csproj.CoreCompileInputs.cache
+c:\Users\samue\VSCode Projects\obj\Debug\net8.0\VSCode Projects.dll
+c:\Users\samue\VSCode Projects\obj\Debug\net8.0\refint\VSCode Projects.dll
+c:\Users\samue\VSCode Projects\obj\Debug\net8.0\VSCode Projects.pdb
+c:\Users\samue\VSCode Projects\obj\Debug\net8.0\VSCode Projects.genruntimeconfig.cache
+c:\Users\samue\VSCode Projects\obj\Debug\net8.0\ref\VSCode Projects.dll
